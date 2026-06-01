@@ -231,6 +231,3 @@ Skill Up is designed around a simple idea:
 people should not have to guess their next move.
 
 By combining career intelligence, semantic matching, adaptive learning, and community-driven growth, Skill Up helps users move from uncertainty to momentum with much more confidence.
-#   S k i l l U p - S H Z 
- 
- 
