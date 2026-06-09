@@ -1,5 +1,7 @@
 # Skill Up
 
+Youtube video & Demo: https://youtu.be/PLBY_UqhsJY
+
 Skill Up is an AI-powered career evolution platform that helps users understand where they are today, discover where they can realistically go next, and build a personalized path to get there.
 
 Instead of treating job search and learning as two separate problems, Skill Up connects them into one continuous system:
